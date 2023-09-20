@@ -26,5 +26,5 @@ Acesse a pasta raíz do projeto e rode o seguinte comando:
 docker-compose up -d
 ```
 
-Adicionei configurações específicas para que o Docker-compose já disponibilizase o arquivo script.sql e o Mysql rodasse esse arquivo assim que subisse.
-Com isso não é preciso criar/popular o banco de dados inicialmente
+Adicionei configurações específicas para que o Docker-compose já disponibilizasse o arquivo "script.sql" e o Mysql rodasse automaticamente.
+Com isso não é preciso criar/popular o banco de dados inicialmente.
