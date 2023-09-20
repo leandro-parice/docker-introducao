@@ -17,6 +17,8 @@ connection.connect(function(err) {
 
 app.get("/", function(req, res){
 
+  // res.send("OK");
+
   const sql = "SELECT * FROM users";
 
   connection.query(sql, (err, results) => {

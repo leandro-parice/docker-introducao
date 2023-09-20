@@ -11,18 +11,19 @@
     $users = json_decode($result);
   ?>
   
-  <div class="container">
-    <table class="table">
+  <div>
+    <table>
       <thead>
         <tr>
-          <th>Produto</th>
-          <th>Preço</th>
+          <th>Nome</th>
+          <th>E-mail</th>
         </tr>
       </thead>
       <tbody>
         <?php foreach($users as $user): ?>
           <tr>
             <td class="text-amber-700"><?php echo $user->name; ?></td>
+            <td><?php echo $user->email; ?></td>
           </tr>
         <?php endforeach; ?>
       </tbody>
