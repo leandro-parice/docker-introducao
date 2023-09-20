@@ -1,6 +1,10 @@
 # Docker - Introdução
 
-Estudo com base no tutorial disponibilizado pelo [Ayrton Teshima](https://github.com/ayrtonteshima)
+Projeto criado para fins de estudo.
+Como base, utilizei o tutorial disponibilizado pelo [Ayrton Teshima](https://github.com/ayrtonteshima)
+
+Link do tutorial:
+https://github.com/ayrtonteshima/docker-introducao
 
 Link da aula 1:
 https://www.youtube.com/watch?v=Kzcz-EVKBEQ
