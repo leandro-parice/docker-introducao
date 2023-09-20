@@ -8,7 +8,7 @@ CREATE TABLE IF NOT EXISTS users (
   PRIMARY KEY (id)
 );
 
-INSERT INTO users VALUE (NULL, 'Leandro Parice', 'contato@leandroparice.com.br');
-INSERT INTO users VALUE (NULL, 'Vivian Hernandez', 'viherndez1@gmail.com');
-INSERT INTO users VALUE (NULL, 'Manu Hernandez Parice', 'manu@gmail.com');
+INSERT INTO users VALUE (NULL, 'Usuario 1', 'email1@teste.com.br');
+INSERT INTO users VALUE (NULL, 'Usuario 2', 'email2@teste.com.br');
+INSERT INTO users VALUE (NULL, 'Usuario 3', 'email3@teste.com.br');
  
